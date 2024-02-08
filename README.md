@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimeshaudugama" alt="nimeshaudugama" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
-
 - 🌱 I’m currently learning **Docker for test environment setup**
-
-- 👯 I’m looking to collaborate on **Typescript Projects**
 
 - 🤝 I’m looking for help with **Quality Assurance**
 
